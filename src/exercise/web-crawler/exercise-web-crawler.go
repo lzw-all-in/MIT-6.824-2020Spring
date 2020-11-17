@@ -88,7 +88,7 @@ func master(ch chan []string, fetcher Fetcher) {
 					go worker(u, ch, fetcher)
 				}
 			}
-		case <-time.After(time.Second * 2):
+		case <-time.After(time.Second):
 			return
 		}
 	}
