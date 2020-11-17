@@ -1,5 +1,14 @@
 # MIT6.824: Distributed Systems 2020 Spring
-- Lab 1: MapReduce 
+If you want to know more about this course please go to [Course Schedule Page](https://pdos.csail.mit.edu/6.824/schedule.html)
+
+- [x] Lab 1: MapReduce
+- [ ] Lab 2:
+- [ ] Lab 3:
+- [ ] Lab 4:
+- [x] exercise : web-crawler
+
+
+### Lab 1: MapReduce Test Output
 
 ```go
 *** Starting wc test.
